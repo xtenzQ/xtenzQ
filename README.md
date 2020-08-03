@@ -7,9 +7,11 @@ My name is **Nikita**, I'm a junior software developer who's looking for new opp
 - 🌱 I'm currently learning **[Boost](https://www.boost.org/)**
 - 🐧 I like Linux!
 
-<code><a target="_blank" href="https://rusetskii.dev/"><img height="30" src="https://image.flaticon.com/icons/svg/867/867644.svg"></a></code>
-<code><a target="_blank" href="https://www.linkedin.com/in/xtenzq/"><img height="30" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_color-256.png"></a></code>
-<code><a target="_blank" href="mailto:me@rusetskii.dev"><img height="30" src="https://image.flaticon.com/icons/svg/732/732223.svg"></a></code>
+[![LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_color-32.png)](https://www.linkedin.com/in/xtenzq/)
+[![Mail](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/243_Outlook_logo-32.png)](mailto:me@rusetskii.dev)
+
+...or check my 🌐 [website](https://rusetskii.dev/)!
+
 
 <!--
 **xtenzQ/xtenzQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
