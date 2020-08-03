@@ -8,7 +8,6 @@ My name is **Nikita**, I'm a junior software developer who's looking for new opp
 - 🐧 I like Linux!
 
 Contact me via:
-
 [![Website](https://cdn3.iconfinder.com/data/icons/business-and-office-51/32/user_person_human_avatar-32.png)](https://rusetskii.dev/)
 [![LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_color-32.png)](https://www.linkedin.com/in/xtenzq/)
 [![Facebook](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_square-32.png)](https://www.facebook.com/xtenzQ/)
