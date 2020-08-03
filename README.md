@@ -11,7 +11,6 @@ My name is **Nikita**, I'm a junior software developer who's looking for new opp
 [![LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_color-32.png)](https://www.linkedin.com/in/xtenzq/)
 [![Facebook](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_square-32.png)](https://www.facebook.com/xtenzQ/)
 [![Mail](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/243_Outlook_logo-32.png)](mailto:me@rusetskii.dev)
-...or check my 🌐 [website](https://rusetskii.dev/)!
 
 <!--
 **xtenzQ/xtenzQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
