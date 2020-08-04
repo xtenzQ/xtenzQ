@@ -27,15 +27,18 @@ My name is **Nikita**, I'm a junior software developer who's looking for new opp
 </p>
 <h4>💬 Contact me via</h4>
 <p>
+  <a href="https://rusetskii.dev/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/My%20Website-007A88.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
   <a href="mailto:me@rusetskii.dev" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
-  </a> 
-  <a href="https://www.facebook.com/xtenzQ/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a> 
   <a href="https://www.linkedin.com/in/xtenzq/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/xtenzQ/" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a> 
 </p>
 
 <!--
