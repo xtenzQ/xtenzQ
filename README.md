@@ -1,6 +1,6 @@
 ### Hi there! 안녕하세요! 👋
 
-> *The most meaningful goal in life is to foster talent*
+> *Nothing surpasses nurturing people as a lifelong goal*
 
 My name is **Nikita**, I'm a junior software developer who's looking for new opportunities!
 - 🔭 I'm looking for a **job** (`C#`, `C++`, `Python`) <img title="Russia" alt="Russia" src="https://image.flaticon.com/icons/svg/323/323300.svg" width="14"/> <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> <img title="Europe" alt="Europe" src="https://image.flaticon.com/icons/svg/323/323344.svg" width="14"/>
