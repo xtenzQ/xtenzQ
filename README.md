@@ -25,19 +25,22 @@ My name is **Nikita**, I'm a junior software developer who's looking for new opp
   <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" />
   
 </p>
-<h4>💬 Contact me via</h4>
+<h4>💬 Find me</h4>
 <p>
   <a target="_blank" href="https://rusetskii.dev/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/My%20Website-007A88.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" />
   </a>
-  <a target="_blank" href="mailto:me@rusetskii.dev" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
-  </a> 
   <a target="_blank" href="https://www.linkedin.com/in/xtenzq/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a target="_blank" href="mailto:me@rusetskii.dev" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
+  </a>
   <a target="_blank" href="https://www.facebook.com/xtenzQ/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=flat-square&logo=facebook&logoColor=white" />
+  </a> 
+  <a target="_blank" href="https://www.instagram.com/xtenzq/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" />
   </a> 
 </p>
 
