@@ -1,5 +1,5 @@
 ### Hi there! 안녕하세요! 👋
-<img align="right" height="300" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
+<img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 <p>
   <a target="_blank" href="mailto:me@rusetskii.dev" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-46a2f1.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
