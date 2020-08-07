@@ -23,6 +23,7 @@ My name is **Nikita**, I'm a junior software developer who's looking for new opp
 - 🌱 I'm currently learning **[Boost](https://www.boost.org/)** and improving `C++`;
 - 🔬 I'm participating in <a href="https://en.wikipedia.org/wiki/Microgrid">microgrids</a> research;
 - 🐧 I'm into Linux OS! ~~I use Arch btw~~
+-  <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> 저는 한국어를 배워요!
 
 <h4>🛠 Skills</h4>
 <ul>
