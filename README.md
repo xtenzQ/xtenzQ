@@ -13,6 +13,9 @@
   <a target="_blank" href="https://rusetskii.dev/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" />
   </a>
+  <a target="_blank" href="https://www.instagram.com/xtenzq/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-46a2f1.svg?&style=flat-square&logo=Instagram&logoColor=white" />
+  </a>
 </p>
 
 > *Nothing surpasses nurturing people as a lifelong goal<br>
