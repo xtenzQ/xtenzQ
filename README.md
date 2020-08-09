@@ -40,8 +40,6 @@ My name is **Nikita**, I'm a junior software developer who's looking for new opp
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-e67e22?style=flat-square&logo=linux&logoColor=black&textColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
   <!-- web -->
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-00D1B2?style=flat-square&logo=HTML5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-00D1B2?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" />
 </li>
 <li>Familiar with:<br>
