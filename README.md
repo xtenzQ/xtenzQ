@@ -23,6 +23,7 @@
 
 My name is **Nikita**, I'm a junior software developer who's looking for new opportunities!
 - 🔭 I'm looking for a **job** (`C#`, `C++`, `Python`) <img title="Russia" alt="Russia" src="https://image.flaticon.com/icons/svg/323/323300.svg" width="14"/> <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> <img title="Europe" alt="Europe" src="https://image.flaticon.com/icons/svg/323/323344.svg" width="14"/>
+- 🎓 I'm a PhD student at INRTU;
 - 🌱 I'm currently learning **[Boost](https://www.boost.org/)** and improving `C++`;
 - 🔬 I'm participating in <a href="https://en.wikipedia.org/wiki/Microgrid">microgrids</a> research;
 - 🐧 I'm into Linux OS! ~~I use Arch btw~~
