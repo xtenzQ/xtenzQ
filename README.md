@@ -2,19 +2,19 @@
 <img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 <p>
   <a target="_blank" href="mailto:me@rusetskii.dev" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-46a2f1.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
+    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/filled-message.png"/>
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/xtenzq/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%2346a2f1.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/>
   </a>
   <a target="_blank" href="https://www.facebook.com/xtenzQ/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-46a2f1.svg?&style=flat-square&logo=facebook&logoColor=white" />
+    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/facebook.png"/>
   </a> 
   <a target="_blank" href="https://rusetskii.dev/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" />
+    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/domain.png"/>
   </a>
   <a target="_blank" href="https://www.instagram.com/xtenzq/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-46a2f1.svg?&style=flat-square&logo=Instagram&logoColor=white" />
+    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/instagram-new.png"/>
   </a>
 </p>
 
