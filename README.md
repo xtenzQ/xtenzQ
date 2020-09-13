@@ -2,19 +2,19 @@
 <img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 <p>
   <a target="_blank" href="mailto:me@rusetskii.dev" target="_blank">
-    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/message-squared.png"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-46a2f1.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/xtenzq/" target="_blank">
-    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%2346a2f1.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.facebook.com/xtenzQ/" target="_blank">
-    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/facebook.png"/>
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-46a2f1.svg?&style=flat-square&logo=facebook&logoColor=white" />
   </a> 
-  <a target="_blank" href="https://www.instagram.com/xtenzq/" target="_blank">
-    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/instagram-new.png"/>
-  </a>
   <a target="_blank" href="https://rusetskii.dev/" target="_blank">
-    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/resume.png"/>
+    <img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://www.instagram.com/xtenzq/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-46a2f1.svg?&style=flat-square&logo=Instagram&logoColor=white" />
   </a>
 </p>
 
@@ -37,23 +37,23 @@ My name is **Nikita**, I'm a junior software developer who's looking for new opp
 <ul>
 <li>Experienced with:<br>
   <!-- primary -->
-  <img alt="NET" src="https://img.shields.io/badge/-.NET-a7d1fa?style=flat-square&logo=%2ENET&logoColor=black" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-a7d1fa?style=flat-square&logo=c%2B%2B&logoColor=black" /> 
-  <img alt="CSharp" src="https://img.shields.io/badge/-C%23-a7d1fa?style=flat-square&logo=c-sharp&logoColor=black" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-a7d1fa?style=flat-square&logo=mysql&textColor=white&logoColor=black" />
+  <img alt="NET" src="https://img.shields.io/badge/-.NET-8e44ad?style=flat-square&logo=%2ENET&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-8e44ad?style=flat-square&logo=c%2B%2B&logoColor=white" /> 
+  <img alt="CSharp" src="https://img.shields.io/badge/-C%23-8e44ad?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-f1c40f?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
   <!-- other -->
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-a7d1fa?style=flat-square&logo=linux&logoColor=black&textColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-a7d1fa?style=flat-square&logo=git&logoColor=white&logoColor=black" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-e67e22?style=flat-square&logo=linux&logoColor=black&textColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
   <!-- web -->
-  <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-a7d1fa?style=flat-square&logo=bulma&logoColor=white&logoColor=black" />
+  <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" />
 </li>
 <li>Familiar with:<br>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-a7d1fa?style=flat-square&logo=python&logoColor=white&logoColor=black" />
-  <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-a7d1fa?style=flat-square&logo=go&logoColor=white&logoColor=black" />
-  <img alt="C" src="https://img.shields.io/badge/-C-a7d1fa?style=flat-square&logo=c&logoColor=white&logoColor=black" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-a7d1fa?style=flat-square&logo=docker&logoColor=black" />
-  <img alt="Qt" src="https://img.shields.io/badge/-Qt-a7d1fa?style=flat-square&logo=Qt&logoColor=black" />
-  <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-a7d1fa?style=flat-square&logo=tensorflow&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-2c3e50?style=flat-square&logo=python&logoColor=white" />
+  <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-2c3e50?style=flat-square&logo=go&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white" />
+  <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </li>
 </ul>
 <!--
