@@ -2,10 +2,7 @@
 <img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 <p>
   <a target="_blank" href="mailto:me@rusetskii.dev" target="_blank">
-    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/filled-message.png"/>
-  </a>
-  <a target="_blank" href="https://rusetskii.dev/" target="_blank">
-    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/domain.png"/>
+    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/message-squared.png"/>
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/xtenzq/" target="_blank">
     <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/>
@@ -13,9 +10,11 @@
   <a target="_blank" href="https://www.facebook.com/xtenzQ/" target="_blank">
     <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/facebook.png"/>
   </a> 
-  
   <a target="_blank" href="https://www.instagram.com/xtenzq/" target="_blank">
     <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/instagram-new.png"/>
+  </a>
+  <a target="_blank" href="https://rusetskii.dev/" target="_blank">
+    <img height="30" src="https://img.icons8.com/ultraviolet/40/000000/resume.png"/>
   </a>
 </p>
 
