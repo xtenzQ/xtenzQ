@@ -1,39 +1,40 @@
-### Hi there! 안녕하세요! 👋
-<img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
-<p>
-  <a target="_blank" href="mailto:me@rusetskii.dev" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-46a2f1.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/xtenzq/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%2346a2f1.svg?&style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://www.facebook.com/xtenzQ/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-46a2f1.svg?&style=flat-square&logo=facebook&logoColor=white" />
-  </a> 
-  <a target="_blank" href="https://rusetskii.dev/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://www.instagram.com/xtenzq/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-46a2f1.svg?&style=flat-square&logo=Instagram&logoColor=white" />
-  </a>
-</p>
+## Hi there! 안녕하세요! 👋
 
-> *Nothing surpasses nurturing people as a lifelong goal<br>
->인생에서 가장 뜻있는 사업은 인재를 양성하는 일이다*
+<a target="_blank" href="mailto:me@rusetskii.dev" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/me@rusetskii.dev-0078D4.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/xtenzq/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Nikita%20Rusetskii-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a target="_blank" href="https://twitter.com/xtenzQ" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/@xtenzQ-1DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" />
+</a>
+<a target="_blank" href="https://rusetskii.dev" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Website-4285F4.svg?&style=flat-square&logo=google-chrome&logoColor=white" />
+</a>
+<a target="_blank" href="https://blog.rusetskii.dev" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-FD8308.svg?&style=flat-square&logo=micro.blog&logoColor=white" />
+</a>
 
-My name is **Nikita**, I'm a junior software developer who's looking for new opportunities!
-- 🔭 I'm looking for a **job** <img title="Russia" alt="Russia" src="https://image.flaticon.com/icons/svg/323/323300.svg" width="14"/> <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> <img title="Europe" alt="Europe" src="https://image.flaticon.com/icons/svg/323/323344.svg" width="14"/>
-- 🎓 I'm a PhD student at INRTU;
-- 🌱 I'm currently learning **[Boost](https://www.boost.org/)** and improving `C++`;
-- 🐧 I'm into Linux OS! ~~I use Arch btw~~
--  <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> 저는 한국어를 배워요!
+
+> *Nothing surpasses nurturing people as a lifelong goal
+> 인생에서 가장 뜻있는 사업은 인재를 양성하는 일이다*
+
+My name is **Nikita**, I'm 24 y.o. a 1-st year PhD student at <b><a href="https://inrtu.com">@INRTU</a></b> and an aspiring software engineer. From a young age the world of high technologies have always been attractive to me.
+
+* 🔭 I'm looking for a **job** <img title="Russia" alt="Russia" src="https://image.flaticon.com/icons/svg/323/323300.svg" width="14"/> <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> <img title="Europe" alt="Europe" src="https://image.flaticon.com/icons/svg/323/323344.svg" width="14"/>
+* 🌱 I'm currently learning **[Boost](https://www.boost.org/)** and improving `C++` ;
+* 🔬 I'm doing a research with **Inelligent Power Grid Lab** 
+* 🐧 I'm into Linux OS! ~~I use Arch btw~~
+*  <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> 저는 한국어를 배워요!
 
 <h4>📚 Currently reading</h4>
 <ul>
   <li>Arindam Mukherjee <b>Learning Boost C++ Libraries</b> <a target="_blank" href="https://www.packtpub.com/product/learning-boost-c-libraries/9781783551217"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li>
 </ul>
 
-<h4>🛠 Skills</h4>
+## 🛠 Skills
+
 <ul>
 <li>Experienced with:<br>
   <!-- primary -->
@@ -56,17 +57,30 @@ My name is **Nikita**, I'm a junior software developer who's looking for new opp
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </li>
 </ul>
+
+## 💬 Find me here
+
+<p>
+  <a target="_blank" href="https://www.facebook.com/xtenzQ/" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=flat-square&logo=facebook&logoColor=white" />
+  </a> 
+  <a target="_blank" href="https://www.instagram.com/xtenzq/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white" />
+  </a>
+</p>
+
 <!--
 **xtenzQ/xtenzQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+*  I’m currently working on ...
+* 🌱 I’m currently learning ...
+* 👯 I’m looking to collaborate on ...
+* 🤔 I’m looking for help with ...
+* 💬 Ask me about ...
+* 📫 How to reach me: ...
+* 😄 Pronouns: ...
+* ⚡ Fun fact: ...
+
 -->
