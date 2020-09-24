@@ -17,7 +17,7 @@
 </a>
 
 
-> *Nothing surpasses nurturing people as a lifelong goal
+> *Nothing surpasses nurturing people as a lifelong goal<br>
 > 인생에서 가장 뜻있는 사업은 인재를 양성하는 일이다*
 
 I’m **Nikita**, 24 y.o. a 🎓 PhD student and an aspiring 👨‍💻 software engineer from Irkutsk, Russia. Ever since I was a kid, I dreamt of becoming a software developer – a person who can create everything with his own brain and hands through code, through every singe operator. I believed that by means of modern technologies even a single person could make a world a better place. Since that time, I had no doubts of the chosen way – the world of high technologies is my destiny and my life.
