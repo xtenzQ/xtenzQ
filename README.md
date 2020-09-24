@@ -24,7 +24,6 @@ I’m **Nikita**, 24 y.o. a 🎓 PhD student and an aspiring 👨‍💻 softwar
 
 * 🔭 I'm looking for a **job** <img title="Russia" alt="Russia" src="https://image.flaticon.com/icons/svg/323/323300.svg" width="14"/> <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> <img title="Europe" alt="Europe" src="https://image.flaticon.com/icons/svg/323/323344.svg" width="14"/>
 * 🌱 I'm currently learning **[Boost](https://www.boost.org/)** and improving `C++` ;
-* 🔬 I'm doing a research with **Inelligent Power Grid Lab** 
 * 🐧 I'm into Linux OS! ~~I use Arch btw~~
 *  <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> 저는 한국어를 배워요!
 
