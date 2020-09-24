@@ -57,16 +57,9 @@ I’m **Nikita**, 24 y.o. a 🎓 PhD student and an aspiring 👨‍💻 softwar
 </li>
 </ul>
 
-## 💬 Find me here
 
-<p>
-  <a target="_blank" href="https://www.facebook.com/xtenzQ/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=flat-square&logo=facebook&logoColor=white" />
-  </a> 
-  <a target="_blank" href="https://www.instagram.com/xtenzq/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white" />
-  </a>
-</p>
+## ⚡ GitHub Stats
+<img align="left" alt="xtenzQ's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xtenzQ&show_icons=true&hide_border=true" />
 
 <!--
 **xtenzQ/xtenzQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
