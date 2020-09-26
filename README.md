@@ -27,7 +27,7 @@ I’m **Nikita**, 24 y.o. a 🎓 PhD student and an aspiring 👨‍💻 softwar
 * 🐧 I'm into Linux OS! ~~I use Arch btw~~
 *  <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> 저는 한국어를 배워요!
 
-<h4>📚 Currently reading</h4>
+## 📚 Currently reading
 <ul>
   <li>Arindam Mukherjee <b>Learning Boost C++ Libraries</b> <a target="_blank" href="https://www.packtpub.com/product/learning-boost-c-libraries/9781783551217"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li>
 </ul>
@@ -55,6 +55,12 @@ I’m **Nikita**, 24 y.o. a 🎓 PhD student and an aspiring 👨‍💻 softwar
   <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </li>
+<li>Tools:<br>
+  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-5848f4?style=flat-square&logo=jetbrains&logoColor=white" />
+  <img alt="CLion" src="https://img.shields.io/badge/-CLion-18d68c?style=flat-square&logo=jetbrains&logoColor=white" />
+  </li>
 </ul>
 
 
