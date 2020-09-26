@@ -49,11 +49,11 @@ I’m **Nikita**, 24 y.o. a 🎓 PhD student and an aspiring 👨‍💻 softwar
 <b>Tools:</b><br>
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-5848f4?style=flat-square&logo=jetbrains&logoColor=white" />
-  <img alt="CLion" src="https://img.shields.io/badge/-CLion-18d68c?style=flat-square&logo=jetbrains&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-JetBrains%20IntelliJ%20IDEA-5e2495?style=flat-square&logo=jetbrains&logoColor=white" />
+  <img alt="CLion" src="https://img.shields.io/badge/-JetBrains%20CLion-18d68c?style=flat-square&logo=jetbrains&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />  
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ## ⚡ GitHub Stats
