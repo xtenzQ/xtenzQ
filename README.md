@@ -37,21 +37,18 @@ I’m **Nikita**, 24 y.o. a 🎓 PhD student and an aspiring 👨‍💻 softwar
 <ul>
 <li>Experienced with:<br>
   <!-- primary -->
-  <img alt="NET" src="https://img.shields.io/badge/-.NET-8e44ad?style=flat-square&logo=%2ENET&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-8e44ad?style=flat-square&logo=c%2B%2B&logoColor=white" /> 
-  <img alt="CSharp" src="https://img.shields.io/badge/-C%23-8e44ad?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-f1c40f?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
-  <!-- other -->
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-e67e22?style=flat-square&logo=linux&logoColor=black&textColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> 
+  <img alt="CSharp" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
   <!-- web -->
   <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" />
 </li>
 <li>Familiar with:<br>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-2c3e50?style=flat-square&logo=python&logoColor=white" />
-  <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-2c3e50?style=flat-square&logo=go&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white&textColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </li>
@@ -60,6 +57,9 @@ I’m **Nikita**, 24 y.o. a 🎓 PhD student and an aspiring 👨‍💻 softwar
   <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-5848f4?style=flat-square&logo=jetbrains&logoColor=white" />
   <img alt="CLion" src="https://img.shields.io/badge/-CLion-18d68c?style=flat-square&logo=jetbrains&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white" />
+  <img alt="NPM" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />  
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </li>
 </ul>
 
