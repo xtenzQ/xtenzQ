@@ -39,16 +39,14 @@ I’m **Nikita**, 24 y.o. a 🎓 PhD student and an aspiring 👨‍💻 softwar
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> 
   <img alt="CSharp" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
-</p>
-<p><b>Frameworks:</b><br>
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=black&textColor=black" /><br>
+<b>Frameworks:</b><br>
   <img alt="NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white" />
-  <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" />
-</p>
-<p><b>Tools:</b><br>
+  <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" /><br>
+<b>Tools:</b><br>
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-5848f4?style=flat-square&logo=jetbrains&logoColor=white" />
