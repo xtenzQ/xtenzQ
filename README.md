@@ -4,7 +4,7 @@
   <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/xtenzq/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Nikita%20Rusetskii-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="https://twitter.com/xtenzQ" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/@xtenzQ-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
