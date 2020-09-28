@@ -1,19 +1,19 @@
 ## Hi there! 안녕하세요! 👋
 
 <a target="_blank" href="mailto:me@rusetskii.dev" target="_blank">
-  <img alt="Email" src="https://img.shields.io/badge/me@rusetskii.dev-0078D4.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
+  <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/xtenzq/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Nikita%20Rusetskii-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Nikita%20Rusetskii-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="https://twitter.com/xtenzQ" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/@xtenzQ-1DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" />
+    <img alt="Twitter" src="https://img.shields.io/badge/@xtenzQ-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a target="_blank" href="https://rusetskii.dev" target="_blank">
-    <img alt="Blog" src="https://img.shields.io/badge/Website-4285F4.svg?&style=flat-square&logo=google-chrome&logoColor=white" />
+    <img alt="Blog" src="https://img.shields.io/badge/Website-4285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a target="_blank" href="https://blog.rusetskii.dev" target="_blank">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-FD8308.svg?&style=flat-square&logo=micro.blog&logoColor=white" />
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-FD8308.svg?&style=for-the-badge&logo=micro.blog&logoColor=white" />
 </a>
 
 
