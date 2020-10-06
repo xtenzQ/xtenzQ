@@ -1,4 +1,4 @@
-## Hi there! 안녕하세요! 👋
+## Hi there! Привет! 안녕하세요! 👋
 
 <a target="_blank" href="mailto:me@rusetskii.dev" target="_blank">
   <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
