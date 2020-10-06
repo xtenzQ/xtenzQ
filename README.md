@@ -29,7 +29,10 @@ I’m **Nikita**, 24 y.o. a 🎓 `PhD student` and an aspiring 👨‍💻 `soft
 *  <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> 저는 한국어를 배워요!
 
 ## ⭐ Upcoming events
-- **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** - Participant
+- [ ] **[Samsung AI Forum 2020](https://research.samsung.com/saif)** - Attendee
+- [ ] **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** - Participant
+- [x] ~~**Samsung AI Forum 2019** - Attendee~~
+- [x] ~~**Samsung Open Source Conference 2019** - Attendee~~
 
 ## 📚 Currently reading
 <ul>
