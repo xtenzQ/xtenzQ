@@ -21,7 +21,7 @@
 > 인생에서 가장 뜻있는 사업은 인재를 양성하는 일이다*<br>
 > `- Writing on the wall in Jungseok Memorial Library`
 
-I’m **Nikita**, 24 y.o. a 🎓 PhD student and an aspiring 👨‍💻 software engineer from **[Irkutsk](https://en.wikipedia.org/wiki/Irkutsk), Russia**. Ever since I was a kid, I dreamt of becoming a software developer – a person who can create everything with his own brain and hands through code, through every singe operator. I believed that by means of modern technologies even a single person could make a world a better place. Since that time, I had no doubts of the chosen way – the world of high technologies is my destiny and my life.
+I’m **Nikita**, 24 y.o. a 🎓 `PhD student` and an aspiring 👨‍💻 `software engineer` from **[Irkutsk](https://en.wikipedia.org/wiki/Irkutsk), Russia**. Ever since I was a kid, I dreamt of becoming a software developer – a person who can create everything with his own brain and hands through code, through every singe operator. I believed that by means of modern technologies even a single person could make a world a better place. Since that time, I had no doubts of the chosen way – the world of high technologies is my destiny and my life.
 <img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 * 🔭 I'm looking for a **job** <img title="Russia" alt="Russia" src="https://image.flaticon.com/icons/svg/323/323300.svg" width="14"/> <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> <img title="Europe" alt="Europe" src="https://image.flaticon.com/icons/svg/323/323344.svg" width="14"/>
 * 🌱 I'm currently learning **[Boost](https://www.boost.org/)** and improving `C++` ;
