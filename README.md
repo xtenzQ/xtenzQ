@@ -28,6 +28,9 @@ I’m **Nikita**, 24 y.o. a 🎓 PhD student and an aspiring 👨‍💻 softwar
 * 🐧 I'm into Linux OS! ~~I use Arch btw~~
 *  <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> 저는 한국어를 배워요!
 
+## ⭐ Upcoming events
+- **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** - Participant
+
 ## 📚 Currently reading
 <ul>
   <li>Arindam Mukherjee <b>Learning Boost C++ Libraries</b> <a target="_blank" href="https://www.packtpub.com/product/learning-boost-c-libraries/9781783551217"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li>
