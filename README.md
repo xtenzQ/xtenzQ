@@ -23,9 +23,13 @@
 
 I’m **Nikita**, 24 y.o. a 🎓 `PhD student` and an aspiring 👨‍💻 `software engineer` from **[Irkutsk](https://en.wikipedia.org/wiki/Irkutsk), Russia**. Ever since I was a kid, I dreamt of becoming a software developer – a person who can create everything with his own brain and hands through code, through every singe operator. I believed that by means of modern technologies even a single person could make a world a better place. Since that time, I had no doubts of the chosen way – the world of high technologies is my destiny and my life.
 <img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
-* 🔭 I'm looking for a **job** <img title="Russia" alt="Russia" src="https://image.flaticon.com/icons/svg/323/323300.svg" width="14"/> <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> <img title="Europe" alt="Europe" src="https://image.flaticon.com/icons/svg/323/323344.svg" width="14"/>
-* 🌱 I'm currently learning **[Boost](https://www.boost.org/)** and improving `C++` ;
-* 🐧 I'm into Linux OS! ~~I use Arch btw~~
+
+### I am...
+* 🎓 PhD student interested in `machine learning`, `smart microgrids`, `optimization algorithms`;
+* 🎓 Exchange student of Inha University (fall semester, 2019);
+* 👨‍💻 Junior software developer currently improving my `Java`;
+* 📚 Longlife learner and daydreamer;
+* 🐧 Linux fan! 
 *  <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> 저는 한국어를 배워요!
 
 ## ⭐ Upcoming events
