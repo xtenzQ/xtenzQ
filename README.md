@@ -33,6 +33,13 @@ I’m **Nikita**, 24 y.o. a 🎓 `PhD student` and an aspiring 👨‍💻 `soft
 *  <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> 저는 한국어를 배워요!
 
 ## ⭐ Upcoming events
+|  | Event name | Role | Note |
+|--|------------|------|------|
+|  | **[Samsung AI Forum 2020](https://research.samsung.com/saif)** | Attendee | |
+| ✔ | **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** | Participant | 🥉 3rd place |
+| ✔ | **[ICESI 2020](http://icesi2020.org)** | Coauthor | |
+| ✔ | **Samsung AI Forum 2019** | Attendee | |
+| ✔ | **SOSCON 2019** | Attendee | |
 - [ ] **[Samsung AI Forum 2020](https://research.samsung.com/saif)** - Attendee
 - [ ] **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** - Participant
 - [x] ~~**[ICESI 2020](http://icesi2020.org)** - Paper Coauthor **[[Read](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)]**~~
