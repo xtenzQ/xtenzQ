@@ -33,13 +33,13 @@ I’m **Nikita**, 24 y.o. a 🎓 `PhD student` and an aspiring 👨‍💻 `soft
 *  <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> 저는 한국어를 배워요!
 
 ## ⭐ Upcoming events
-|  | Event name | Role | Note |
-|--|------------|------|------|
-|  | **[Samsung AI Forum 2020](https://research.samsung.com/saif)** | Attendee | |
-| ✔ | **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** | Participant | 🥉 3rd place |
-| ✔ | **[ICESI 2020](http://icesi2020.org)** | Coauthor | 📃 **[Paper](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)** |
-| ✔ | **[Samsung AI Forum 2019](https://research.samsung.com/saif)** | Attendee | |
-| ✔ | **[SOSCON 2019](https://www.soscon.net)** | Attendee | |
+|  | Date | Event name | Role | Note |
+|--|------|------------|------|------|
+|  | 2020.11.02-03 | **[Samsung AI Forum 2020](https://research.samsung.com/saif)** | Attendee | |
+| ✔ | 2020.10.09-11 | **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** | Participant | 🥉 3rd place |
+| ✔ | 2020.09.16-18 | **[ICESI 2020](http://icesi2020.org)** | Coauthor | 📃 **[Paper](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)** |
+| ✔ | 2020.11.05-04 | **[Samsung AI Forum 2019](https://research.samsung.com/saif)** | Attendee | |
+| ✔ | 2020.10.16-17 | **[SOSCON 2019](https://www.soscon.net)** | Attendee | |
 
 ## 📚 Currently reading
 <ul>
