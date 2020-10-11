@@ -40,11 +40,6 @@ I’m **Nikita**, 24 y.o. a 🎓 `PhD student` and an aspiring 👨‍💻 `soft
 | ✔ | **[ICESI 2020](http://icesi2020.org)** | Coauthor | |
 | ✔ | **Samsung AI Forum 2019** | Attendee | |
 | ✔ | **SOSCON 2019** | Attendee | |
-- [ ] **[Samsung AI Forum 2020](https://research.samsung.com/saif)** - Attendee
-- [ ] **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** - Participant
-- [x] ~~**[ICESI 2020](http://icesi2020.org)** - Paper Coauthor **[[Read](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)]**~~
-- [x] ~~**Samsung AI Forum 2019** - Attendee~~
-- [x] ~~**Samsung Open Source Conference 2019** - Attendee~~
 
 ## 📚 Currently reading
 <ul>
