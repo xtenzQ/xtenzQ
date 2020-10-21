@@ -16,13 +16,11 @@
     <img alt="Blog" src="https://img.shields.io/badge/Blog-FD8308.svg?&style=for-the-badge&logo=micro.blog&logoColor=white" />
 </a>
 
-
 > *Nothing surpasses nurturing people as a lifelong goal<br>
 > 인생에서 가장 뜻있는 사업은 인재를 양성하는 일이다*<br>
 > `- Writing on the wall in Jungseok Memorial Library`
 
 I’m **Nikita**, 24 y.o. a 🎓 `PhD student` and an aspiring 👨‍💻 `software engineer` from  <img title="Location mark" alt="Location mark" src="https://www.flaticon.com/svg/static/icons/svg/1007/1007899.svg" width="14"/> **[Irkutsk](https://en.wikipedia.org/wiki/Irkutsk), Russia**. Ever since I was a kid, I dreamt of becoming a software developer – a person who can create everything with his own brain and hands through code, through every singe operator. I believed that by means of modern technologies even a single person could make a world a better place. Since that time, I had no doubts of the chosen way – the world of high technologies is my 🌋destiny and my 🏃‍♂️life.
-<img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 
 ### I am...
 * 🎓 PhD student interested in `machine learning`, `smart microgrids`, `optimization algorithms`;
