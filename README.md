@@ -15,6 +15,9 @@
 <a target="_blank" href="https://blog.rusetskii.dev" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-FD8308.svg?&style=for-the-badge&logo=micro.blog&logoColor=white" />
 </a>
+<a target="_blank" href="https://cv.rusetskii.dev" target="_blank">
+    <img alt="CV" src="https://img.shields.io/badge/CV-1F1F1F.svg?&style=for-the-badge&logo=instapaper&logoColor=white" />
+</a>
 
 > *Nothing surpasses nurturing people as a lifelong goal<br>
 > 인생에서 가장 뜻있는 사업은 인재를 양성하는 일이다*<br>
