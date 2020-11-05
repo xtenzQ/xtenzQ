@@ -32,6 +32,7 @@ I’m **Nikita**, 24 y.o. a 🎓 `PhD student` and an aspiring 👨‍💻 `soft
 * 📚 Longlife learner and daydreamer;
 * 🐧 Linux fan! 
 *  <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="14"/> 저는 한국어를 배워요!
+* looking for the job abroad
 
 ## ⭐ Upcoming events
 |  | Date | Event name | Role | Note |
