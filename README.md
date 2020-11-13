@@ -14,7 +14,7 @@
 <br />
 ### I am...
 * 🎓 A postgraduate student interested in `machine learning`, `smart microgrids`, `optimization algorithms`
-* 🔭 Currently working on **[SmartMonitor](https://github.com/Exterminant/JunctionX-Seoul-2020)**
+* 🔭 Currently working on **[SmartMonitor](https://github.com/xtenzQ/JunctionX-Seoul-2020)**
 * 🎓 Exchange student of Inha University (fall semester, 2019)
 * 👨‍💻 Junior software developer currently improving my `Java`
 * 📚 Longlife learner and daydreamer
