@@ -24,7 +24,7 @@
 * 📄 Get to know about my experiences in [CV](https://cv.rusetskii.dev/)
 
 <h3 align="left">Languages and Tools:</h3>
-
+<p>
 <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Spring" height="40px" />
@@ -38,7 +38,9 @@
 <img align="left" src="https://simpleicons.org/icons/vue-dot-js.svg" alt="VueJS" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
-
+</p>
+<br />
+<br />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtenzq&locale=en&hide_langs_below=1" alt="xtenzq" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xtenzq&show_icons=true&locale=en&line_height=27" alt="xtenzq" />
