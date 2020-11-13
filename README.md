@@ -21,8 +21,8 @@
 * 🐧 Linux fan! 
 * 📄 Get to know about my experiences in [CV](https://cv.rusetskii.dev/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
+### Languages and Tools
+
 <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Spring" height="40px" />
@@ -36,10 +36,9 @@
 <img align="left" src="https://simpleicons.org/icons/vue-dot-js.svg" alt="VueJS" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
-</p>
 <br />
-<br />
-<h3 align="left">Recent achievements</h3>
+
+### Recent achievements
 
 * 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
 * 📃 **International Conference on Electric-Vehicle, Smart Grid and Information Technology 2020** [Paper Publication](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
