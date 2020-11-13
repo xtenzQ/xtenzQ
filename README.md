@@ -40,4 +40,4 @@
 <img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
 </p>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=xtenzq&show_icons=true&locale=en&line_height=27" alt="xtenzq" /></div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xtenzq&show_icons=true&locale=en&line_height=27" alt="xtenzq" /></p>
