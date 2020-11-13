@@ -11,6 +11,7 @@
 <a href="https://fb.com/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://instagram.com/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://www.leetcode.com/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
+<br />
 ### I am...
 * 🎓 A postgraduate student interested in `machine learning`, `smart microgrids`, `optimization algorithms`
 * 🔭 Currently working on [SmartMonitor](https://github.com/Exterminant/JunctionX-Seoul-2020)
@@ -42,8 +43,4 @@
 
 * 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
 * 📃 **International Conference on Electric-Vehicle, Smart Grid and Information Technology 2020** [Paper Publication](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
-
-<br />
-<br />
-<br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xtenzq&show_icons=true&locale=en&line_height=27" alt="xtenzq" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xtenzq&show_icons=true&locale=en&line_height=27" alt="xtenzq" />
