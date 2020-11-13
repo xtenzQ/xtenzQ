@@ -11,12 +11,9 @@
 <a href="https://fb.com/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://instagram.com/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://www.leetcode.com/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
-
-<br/>
-<br/>
-
-* 🎓 I'm a postgraduate student interested in `machine learning`, `smart microgrids`, `optimization algorithms`
-* 🔭 I’m currently working on [SmartMonitor](https://github.com/Exterminant/JunctionX-Seoul-2020)
+### I am...
+* 🎓 A postgraduate student interested in `machine learning`, `smart microgrids`, `optimization algorithms`
+* 🔭 Currently working on [SmartMonitor](https://github.com/Exterminant/JunctionX-Seoul-2020)
 * 🎓 Exchange student of Inha University (fall semester, 2019)
 * 👨‍💻 Junior software developer currently improving my `Java`
 * 📚 Longlife learner and daydreamer
@@ -39,6 +36,13 @@
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
 </p>
+<br />
+<br />
+<h3 align="left">Recent achievements</h3>
+
+* 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
+* 📃 **International Conference on Electric-Vehicle, Smart Grid and Information Technology 2020** [Paper Publication](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
+
 <br />
 <br />
 <br />
