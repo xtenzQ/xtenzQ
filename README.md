@@ -41,6 +41,4 @@
 </p>
 <br />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtenzq&locale=en&hide_langs_below=1" alt="xtenzq" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xtenzq&show_icons=true&locale=en&line_height=27" alt="xtenzq" />
