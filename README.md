@@ -21,7 +21,7 @@
 * 🐧 Linux fan! 
 * 📄 Get to know about my experiences in [CV](https://cv.rusetskii.dev/)
 
-### Recent achievements
+### Recent achievements 🏆
 
 * 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
 * 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
