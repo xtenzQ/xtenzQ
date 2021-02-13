@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Nikita</h2>
-<h3 align="center">A postgraduate student, Java developer and longlife learner</h3>
+<h3 align="center">A postgraduate student, software engineer and longlife learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
 
@@ -13,11 +13,10 @@
 <a href="https://www.leetcode.com/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
 <br />
 ### I am...
-* 🎓 Postgraduate student interested in `machine learning` and `optimization algorithms`
+* 🎓 Postgraduate student and researcher at **[@compvis-lab](https://github.com/compvis-lab)**
 * 🔭 Currently working on **[SmartMonitor](https://github.com/xtenzQ/JunctionX-Seoul-2020)**
 * 🎓 Exchange student of Inha University (fall semester, 2019)
 * 👨‍💻 Software engineer working at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
-* 🔬 Researcher at **[@compvis-lab](https://github.com/compvis-lab)**
 * 📄 Get to know about my experiences in **[CV](https://cv.rusetskii.dev/)**
 
 ### Recent achievements 🏆
