@@ -13,13 +13,12 @@
 <a href="https://www.leetcode.com/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
 <br />
 ### I am...
-* 🎓 A postgraduate student interested in `machine learning`, `smart microgrids`, `optimization algorithms`
+* 🎓 Postgraduate student interested in `machine learning` and `optimization algorithms`
 * 🔭 Currently working on **[SmartMonitor](https://github.com/xtenzQ/JunctionX-Seoul-2020)**
 * 🎓 Exchange student of Inha University (fall semester, 2019)
-* 👨‍💻 Junior software developer currently improving my `Java`
-* 📚 Longlife learner and daydreamer
-* 🐧 Linux fan! 
-* 📄 Get to know about my experiences in [CV](https://cv.rusetskii.dev/)
+* 👨‍💻 Software engineer working at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
+* 🔬 Researcher at **[@compvis-lab](https://github.com/compvis-lab)**
+* 📄 Get to know about my experiences in **[CV](https://cv.rusetskii.dev/)**
 
 ### Recent achievements 🏆
 
