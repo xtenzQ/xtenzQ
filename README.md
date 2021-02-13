@@ -28,21 +28,20 @@
 * 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
 * 📃 **International Conference on Electric-Vehicle, Smart Grid and Information Technology 2020** (as co-author) [Paper Publication](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
 
-### Languages and Tools
+### Languages and Frameworks
 
-<img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Spring" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/csharp.svg" alt="C#" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/dot-net.svg" alt="NET" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/flask.svg" alt="Flask" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/manjaro.svg" alt="Manjaro" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/tensorflow.svg" alt="Tensorflow" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/vue-dot-js.svg" alt="VueJS" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
+<img align="left" src="icons/c-sharp-solid.svg" />
+<img align="left" src="icons/dot-net.svg" />
+<img align="left" src="icons/java.svg" />
+<img align="left" src="icons/kotlin.svg" />
+<img align="left" src="icons/gwt.svg" />
+<img align="left" src="icons/tensorflow.svg" />
+<img align="left" src="icons/matlab.svg" />
+<img align="left" src="icons/opencv.svg" />
+<img align="left" src="icons/react.svg" />
+<img align="left" src="icons/bulma.svg" />
+<img align="left" src="icons/bootstrap.svg" />
+<img align="left" src="icons/typescript.svg" />
 <br />
 <br />
 <br />
