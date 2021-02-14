@@ -47,4 +47,5 @@
 <br />
 <br />
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xtenzq&show_icons=true&locale=en&line_height=27" alt="xtenzq" />
+<img align="center" src="https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg" alt="xtenzq" />
+<img align="center" src="https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg" alt="xtenzq" />
