@@ -44,8 +44,6 @@
 <img align="left" src="icons/bulma.svg" />
 <img align="left" src="icons/bootstrap.svg" />
 <img align="left" src="icons/typescript.svg" />
-<br />
-<br />
-<br />
+
 ![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
