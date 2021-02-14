@@ -28,7 +28,7 @@
 
 ### Recent notes 📝
 
-* **[Setting Maven up to work with Azure DevOps Artifacts](https://github.com/xtenzQ/dev-notes/blob/main/azure-devops/setting-maven-up.md)** `devops` `maven` `artifacts`
+* **Setting Maven up to work with Azure DevOps Artifacts** [Link](https://github.com/xtenzQ/dev-notes/blob/main/azure-devops/setting-maven-up.md) `devops` `maven` `artifacts`
 
 ### Languages and Frameworks
 
