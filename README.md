@@ -47,5 +47,5 @@
 <br />
 <br />
 <br />
-<img align="center" src="https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg" alt="xtenzq" />
-<img align="center" src="https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg" alt="xtenzq" />
+![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
