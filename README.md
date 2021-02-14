@@ -26,6 +26,10 @@
 * 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
 * 📃 **International Conference on Electric-Vehicle, Smart Grid and Information Technology 2020** (as co-author) [Paper Publication](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
 
+### Recent notes 📝
+
+* **[Setting Maven up to work with Azure DevOps Artifacts](https://github.com/xtenzQ/dev-notes/blob/main/azure-devops/setting-maven-up.md)** `devops` `maven` `artifacts`
+
 ### Languages and Frameworks
 
 <img align="left" src="icons/c-sharp-solid.svg" />
