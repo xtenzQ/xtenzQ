@@ -16,7 +16,7 @@
 * 🎓 Postgraduate student and researcher at **[@compvis-lab](https://github.com/compvis-lab)**
 * 🔭 Currently working on **[SmartMonitor](https://github.com/xtenzQ/JunctionX-Seoul-2020)**
 * 🎓 Exchange student of Inha University (fall semester, 2019)
-* 👨‍💻 Software engineer working at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
+* 👨‍💻 Junior software engineer working at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
 * 📄 Get to know about my experiences in **[CV](https://cv.rusetskii.dev/)**
 
 ### Recent achievements 🏆
