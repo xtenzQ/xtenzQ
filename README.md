@@ -20,7 +20,7 @@
 * 📄 Get to know about my experiences in **[CV](https://cv.rusetskii.dev/)**
 
 ### Recent achievements 🏆
-
+* 🥉 **[JunctionX Seoul 2021](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
 * 📃 **Paper in Energies (Q2)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
 * 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
 * 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
