@@ -14,7 +14,7 @@
 <br />
 ### I am...
 * 🎓 Postgraduate student and researcher at **[@compvis-lab](https://github.com/compvis-lab)**
-* 🔭 Currently learning **Vue.js** and **Flask**
+* 🔭 Currently learning **Vue.js** and **GoLang**
 * 🎓 Exchange student of Inha University (fall semester, 2019)
 * 👨‍💻 Junior software engineer working at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
 * 📄 Get to know about my experiences in **[CV](https://cv.rusetskii.dev/)**
