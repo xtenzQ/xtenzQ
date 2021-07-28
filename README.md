@@ -19,7 +19,7 @@
 * 👨‍💻 Junior software engineer working at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
 
 ### Recent achievements 🏆
-* 📃 **[KIEE 52nd Summer Conference](https://conf.kiee.or.kr/) Excellence Award** (as co-author)
+* 📃 **[2021 KIEE 52nd Summer Conference](https://conf.kiee.or.kr/) Excellence Award** (as co-author)
 * 🥉 **[JunctionX Seoul 2021](https://app.hackjunction.com/events/junctionx-seoul)** Finalist (3rd winner in SIA Track with project SmartChange)
 * 📃 **Paper in Energies (Q2, MDPI)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
 * 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
