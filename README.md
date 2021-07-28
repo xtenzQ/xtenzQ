@@ -30,23 +30,5 @@
 
 * **Setting Maven up to work with Azure DevOps Artifacts** - [Read](https://github.com/xtenzQ/dev-notes/blob/main/azure-devops/setting-maven-up-artifacts.md) `devops` `maven` `artifacts`
 
-### Languages and Frameworks
-
-<img align="left" src="icons/c-sharp-solid.svg" />
-<img align="left" src="icons/dot-net.svg" />
-<img align="left" src="icons/java.svg" />
-<img align="left" src="icons/kotlin.svg" />
-<img align="left" src="icons/gwt.svg" />
-<img align="left" src="icons/tensorflow.svg" />
-<img align="left" src="icons/matlab.svg" />
-<img align="left" src="icons/opencv.svg" />
-<img align="left" src="icons/react.svg" />
-<img align="left" src="icons/bulma.svg" />
-<img align="left" src="icons/bootstrap.svg" />
-<img align="left" src="icons/typescript.svg" />
-<br />
-<br />
-<br />
-
 ![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
