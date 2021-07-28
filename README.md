@@ -19,12 +19,12 @@
 * 👨‍💻 Junior software engineer working at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
 
 ### Recent achievements 🏆
-* 📃 **KIEE 52nd Summer Conference Excellence Award** (as co-author)
+* 📃 **[KIEE 52nd Summer Conference](https://conf.kiee.or.kr/) Excellence Award** (as co-author)
 * 🥉 **[JunctionX Seoul 2021](https://app.hackjunction.com/events/junctionx-seoul)** Finalist (3rd winner in SIA Track with project SmartChange)
-* 📃 **Paper in Energies (Q2)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
+* 📃 **Paper in Energies (Q2, MDPI)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
 * 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
 * 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** Finalist (3rd winner in SIA Track with project SmartMonitor)
-* 📃 **International Conference on Electric-Vehicle, Smart Grid and Information Technology 2020** (as co-author) [Paper Publication](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
+(https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
 
 ### Recent notes 📝
 
