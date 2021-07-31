@@ -14,9 +14,8 @@
 <br />
 ### I am...
 * 🎓 Postgraduate student and researcher at **[@compvis-lab](https://github.com/compvis-lab)**
-* 🔭 Currently learning **Vue.js** and **GoLang**
 * 🎓 Exchange student of Inha University (fall semester, 2019)
-* 👨‍💻 Junior software engineer working at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
+* 👨‍💻 Junior Java developer working at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
 
 ### Recent achievements 🏆
 * 📃 **[2021 KIEE 52nd Summer Conference](https://conf.kiee.or.kr/) Excellence Award** (as co-author)
@@ -24,6 +23,9 @@
 * 📃 **Paper in Energies (Q2, MDPI)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
 * 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
 * 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** Finalist (3rd winner in SIA Track with project SmartMonitor)
+
+### In Progress
+* 📚 **[Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery)** course
 
 ### Recent notes 📝
 
