@@ -26,6 +26,7 @@
 
 ### In Progress
 * 📚 **[Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery)** course
+* 📚 **[Inside the Java Virtual Machine](https://www.amazon.com/Inside-Java-2-Virtual-Machine/dp/0071350934)** book by Bill Venners
 
 ### Recent notes 📝
 
