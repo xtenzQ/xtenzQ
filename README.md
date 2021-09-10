@@ -13,7 +13,7 @@
 <a href="https://www.leetcode.com/xtenzq" target="blank"><img align="left" src="icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
 <br />
 ### I am...
-* 🎓 Postgraduate student and researcher at **[@compvis-lab](https://github.com/compvis-lab)**
+* 🎓 Researcher at **[@compvis-lab](https://github.com/compvis-lab)**
 * 🎓 Exchange student of Inha University (fall semester, 2019)
 * 🎓 Postgraduate student at Irkutsk National Research Technical University
 * 👨‍💻 Software Engineer at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
