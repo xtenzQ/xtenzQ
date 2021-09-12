@@ -25,6 +25,9 @@
 * 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
 * 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartMonitor)
 
+### Incoming events 🌠
+* 👨‍💻 **[Junction 2021](https://www.junction2021.com/)** Hackathon
+
 ### In Progress
 * 📚 **[Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery)** course
 * 📚 **[Inside the Java Virtual Machine](https://www.amazon.com/Inside-Java-2-Virtual-Machine/dp/0071350934)** book by Bill Venners
