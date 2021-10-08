@@ -13,7 +13,6 @@
 * 🎓 Researcher at **[@compvis-lab](https://github.com/compvis-lab)**
 * 🎓 Exchange student of Inha University (fall semester, 2019)
 * 🎓 Postgraduate student at Irkutsk National Research Technical University
-* 👨‍💻 Software Engineer at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
 
 ### Recent achievements 🏆
 * 📃 **[2021 KIEE 52nd Summer Conference](https://conf.kiee.or.kr/) Excellence Award** (as co-author)
