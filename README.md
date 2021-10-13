@@ -28,13 +28,5 @@
 * 📄 2021 [The Optimal Allocation of Distributed Generators Considering Fault...](https://www.researchgate.net/publication/348445556_The_Optimal_Allocation_of_Distributed_Generators_Considering_Fault_Current_and_Levelized_Cost_of_Energy_Using_the_Particle_Swarm_Optimization_Method)
 * 📄 2020 [Optimal Distributed Generation Selection Using Particle Swarm Optimization](https://www.researchgate.net/publication/344692175_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
 
-### In Progress
-* 📚 **[Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery)** course;
-* 📚 **[Inside the Java Virtual Machine](https://www.amazon.com/Inside-Java-2-Virtual-Machine/dp/0071350934)** book by Bill Venners.
-
-### Recent notes 📝
-
-* **Setting Maven up to work with Azure DevOps Artifacts** - [Read](https://github.com/xtenzQ/dev-notes/blob/main/azure-devops/setting-maven-up-artifacts.md) `devops` `maven` `artifacts`
-
 ![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
