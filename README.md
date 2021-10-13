@@ -10,24 +10,25 @@
 <a href="https://www.leetcode.com/xtenzq" target="blank"><img align="left" src="icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
 <br />
 ### I am...
-* 🔬 Researcher at **[@compvis-lab](https://github.com/compvis-lab)**
-* 💻 Java Software Engineer working for **[Transneft Technology, LLC](https://en.transneft.ru/subsidiaries-company/service-company/transneft-technology-llc/)**
-* 🌏 Exchange student of **[Inha University](https://eng.inha.ac.kr/)** (2nd semester of 2019)
-* 🎓 PhD student at INRTU under supervision of [prof. Denis Sidorov](http://www.mathnet.ru/eng/person17845)
+* 🔬 Researcher at **[@compvis-lab](https://github.com/compvis-lab)**;
+* 💻 Java Software Engineer working for **[Transneft Technology, LLC](https://en.transneft.ru/subsidiaries-company/service-company/transneft-technology-llc/)**;
+* 🌏 Exchange student of **[Inha University](https://eng.inha.ac.kr/)** (2nd semester of 2019);
+* 🎓 PhD student at INRTU under supervision of prof. **[Denis Sidorov](http://www.mathnet.ru/eng/person17845)**;
+* 📄 Check my **[CV](https://github.com/xtenzQ/latex-simple-cv/blob/main/cv.pdf)** and **[website](https://rusetskii.dev/)**!
 
 ### Recent achievements 🏆
-* 📃 **[2021 KIEE 52nd Summer Conference](https://conf.kiee.or.kr/) Excellence Award** (as co-author)
-* 🥉 **[JunctionX Seoul 2021](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartChange)
-* 📃 **Paper in Energies (Q2, MDPI)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
-* 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
-* 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartMonitor)
+* 📃 **[2021 KIEE 52nd Summer Conference](https://conf.kiee.or.kr/) Excellence Award** (as co-author);
+* 🥉 **[JunctionX Seoul 2021](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartChange);
+* 📃 **Paper in Energies (Q2, MDPI)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418);
+* 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author);
+* 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartMonitor).
 
 ### Incoming events 🌠
-* 👨‍💻 **[Junction 2021](https://www.junction2021.com/)** Hackathon
+* 👨‍💻 **[Junction 2021](https://www.junction2021.com/)** Hackathon.
 
 ### In Progress
-* 📚 **[Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery)** course
-* 📚 **[Inside the Java Virtual Machine](https://www.amazon.com/Inside-Java-2-Virtual-Machine/dp/0071350934)** book by Bill Venners
+* 📚 **[Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery)** course;
+* 📚 **[Inside the Java Virtual Machine](https://www.amazon.com/Inside-Java-2-Virtual-Machine/dp/0071350934)** book by Bill Venners.
 
 ### Recent notes 📝
 
