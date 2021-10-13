@@ -17,7 +17,7 @@
 * 📄 Check my **[CV](https://github.com/xtenzQ/latex-simple-cv/blob/main/cv.pdf)** and **[website](https://rusetskii.dev/)** for more info!
 
 ### Recent achievements 🏆
-* 📃 2021 **[KIEE 52nd Summer Conference](https://conf.kiee.or.kr/)** Excellence Award (as co-author);
+* 🏆 2021 **[KIEE 52nd Summer Conference](https://conf.kiee.or.kr/)** Excellence Award (as co-author);
 * 🥉 2021 **[JunctionX Seoul](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartChange);
 * 🥉 2020 **IEEE Seoul Section Student Paper Contest** Bronze Award (as 2nd author);
 * 🥉 2020 **[JunctionX Seoul](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartMonitor).
