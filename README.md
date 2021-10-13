@@ -17,14 +17,16 @@
 * 📄 Check my **[CV](https://github.com/xtenzQ/latex-simple-cv/blob/main/cv.pdf)** and **[website](https://rusetskii.dev/)**!
 
 ### Recent achievements 🏆
-* 📃 **[2021 KIEE 52nd Summer Conference](https://conf.kiee.or.kr/) Excellence Award** (as co-author);
-* 🥉 **[JunctionX Seoul 2021](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartChange);
-* 📃 **Paper in Energies (Q2, MDPI)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418);
-* 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author);
-* 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartMonitor).
+* 📃 2021 **[KIEE 52nd Summer Conference](https://conf.kiee.or.kr/)** Excellence Award (as co-author);
+* 🥉 2021 **[JunctionX Seoul](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartChange);
+* 🥉 2020 **IEEE Seoul Section Student Paper Contest** Bronze Award (as 2nd author);
+* 🥉 2020 **[JunctionX Seoul](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartMonitor).
 
-### Incoming events 🌠
-* 👨‍💻 **[Junction 2021](https://www.junction2021.com/)** Hackathon.
+### Research
+
+* 📄 2021 [A Study on the Effect of Energy Storage System Optimal Operation...](https://www.researchgate.net/publication/353072993_A_Study_on_the_Effect_of_Energy_Storage_System_Optimal_Operation_with_Distributed_Generators_on_System_Reliability)
+* 📄 2021 [The Optimal Allocation of Distributed Generators Considering Fault...](https://www.researchgate.net/publication/348445556_The_Optimal_Allocation_of_Distributed_Generators_Considering_Fault_Current_and_Levelized_Cost_of_Energy_Using_the_Particle_Swarm_Optimization_Method)
+* 📄 2020 [Optimal Distributed Generation Selection Using Particle Swarm Optimization](https://www.researchgate.net/publication/344692175_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
 
 ### In Progress
 * 📚 **[Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery)** course;
