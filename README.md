@@ -10,11 +10,11 @@
 <a href="https://www.leetcode.com/xtenzq" target="blank"><img align="left" src="icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
 <br />
 ### I am...
-* 🔬 Researcher at **[@compvis-lab](https://github.com/compvis-lab)**;
+* 🔬 Researcher at **[@compvis-lab](https://compvis.ru/)**;
 * 💻 Java Software Engineer working for **[Transneft Technology, LLC](https://en.transneft.ru/subsidiaries-company/service-company/transneft-technology-llc/)**;
 * 🌏 Exchange student of **[Inha University](https://eng.inha.ac.kr/)** (2nd semester of 2019);
-* 🎓 PhD student at INRTU under supervision of prof. **[Denis Sidorov](http://www.mathnet.ru/eng/person17845)**;
-* 📄 Check my **[CV](https://github.com/xtenzQ/latex-simple-cv/blob/main/cv.pdf)** and **[website](https://rusetskii.dev/)**!
+* 🎓 PhD student (CE) at INRTU under supervision of prof. **[Denis Sidorov](http://www.mathnet.ru/eng/person17845)**;
+* 📄 Check my **[CV](https://github.com/xtenzQ/latex-simple-cv/blob/main/cv.pdf)** and **[website](https://rusetskii.dev/)** for more info!
 
 ### Recent achievements 🏆
 * 📃 2021 **[KIEE 52nd Summer Conference](https://conf.kiee.or.kr/)** Excellence Award (as co-author);
