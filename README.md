@@ -1,9 +1,9 @@
 <h2>Hi 👋, I'm Nikita</h2>
 
-I create web apps in Java/Kotlin and do research in machine learning applied to renewable energy. Currently, I'm a software engineer working at **[Transneft Technology, LLC](https://en.transneft.ru/subsidiaries-company/service-company/transneft-technology-llc/)** developing and supporting ECM systems. Outside of work, I also...
-* 🎓 Study PhD course of CS at INRTU under supervision of prof. **[Denis Sidorov](http://www.mathnet.ru/eng/person17845)**;
+I create web apps in `Java` / `Kotlin` and do research in machine learning applied to renewable energy. Currently, I work as a software engineer at **[Transneft Technology, LLC](https://en.transneft.ru/subsidiaries-company/service-company/transneft-technology-llc/)** developing and supporting ECM systems. Outside of work, I also...
+* 🎓 Study Ph.D. course of CS at **[INRTU](https://eng.istu.edu/)** under supervision of prof. **[Denis Sidorov](http://www.mathnet.ru/eng/person17845)**;
 * 🧠 Participate in various **hackathons** and paper contests;
-* 🌐 Design and develop websites (check our **[lab website](https://compvis.ru/)**)! 
+* 🌐 Design and develop websites (check our **[lab website](https://compvis.ru/)**);
 * 🌏 Go on educational trips abroad;
 * 🌱 Learn Vue.js and Typescript;
 * 📄 Look for better job opportunities! Check my **[CV](https://github.com/xtenzQ/latex-simple-cv/blob/main/cv.pdf)** and **[website](https://rusetskii.dev/)** for more info!
