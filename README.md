@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Nikita</h2>
-<h3>A PhD student, software engineer and life-long learner</h3>
+<h3>A PhD student & Back End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
 
