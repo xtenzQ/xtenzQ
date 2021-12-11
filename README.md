@@ -4,8 +4,6 @@ I create web apps in `Java` / `Kotlin` and do research in machine learning appli
 * 🎓 Study Ph.D. course of CS at **[INRTU](https://eng.istu.edu/)** under supervision of prof. **[Denis Sidorov](http://www.mathnet.ru/eng/person17845)**;
 * 🧠 Participate in various **hackathons** and paper contests;
 * 🌐 Design and develop websites (check our **[lab website](https://compvis.ru/)**);
-* 🌏 Go on educational trips abroad;
-* 🌱 Learn Vue.js and Typescript;
 * 📄 Look for better job opportunities! Check my **[CV](https://github.com/xtenzQ/latex-simple-cv/blob/main/cv.pdf)** and **[website](https://rusetskii.dev/)** for more info!
 
 ### 🏆 Recent achievements 
