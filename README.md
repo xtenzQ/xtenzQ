@@ -12,10 +12,6 @@ I create web apps in `Java` / `Kotlin` and do research in machine learning appli
 * 🥉 2020 **IEEE Seoul Section Student Paper Contest** Bronze Award (as 2nd author);
 * 🥉 2020 **[JunctionX Seoul](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartMonitor).
 
-### 🔬 Research
-* 📄 2021 [A Study on the Effect of Energy Storage System Optimal Operation...](https://www.researchgate.net/publication/353072993_A_Study_on_the_Effect_of_Energy_Storage_System_Optimal_Operation_with_Distributed_Generators_on_System_Reliability)
-* 📄 2021 [The Optimal Allocation of Distributed Generators Considering Fault...](https://www.researchgate.net/publication/348445556_The_Optimal_Allocation_of_Distributed_Generators_Considering_Fault_Current_and_Levelized_Cost_of_Energy_Using_the_Particle_Swarm_Optimization_Method)
-* 📄 2020 [Optimal Distributed Generation Selection Using Particle Swarm Optimization](https://www.researchgate.net/publication/344692175_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
 ---
 <p align="left"><img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" />
 <a href="https://www.researchgate.net/profile/Nikita-Rusetskii" target="blank"><img align="left" src="icons/rg.png" alt="xtenzq" width="22px" /></a>
