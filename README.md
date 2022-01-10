@@ -1,10 +1,12 @@
 <h2>Hi 👋, I'm Nikita</h2>
 
-I create web apps in `Java` and `Kotlin` and do research in machine learning applied to 🍃 renewable energy. Currently, I work as a Back-End Developer at **[KMS Lighthouse](https://www.kmslh.com/)** and study 🎓 Ph. D. program (Computer Science).
+I develop web applications in Java and Kotlin, design websites, and research machine learning methods that help to manage 🍃 renewable energy. Currently, I work as a Back-End Developer at **[@kmslighthouse](https://www.kmslh.com/)** and study 🎓 Computer Science.
 
-I participate in various hackathons from time to time with my team 🏆 **[@daredevils](https://github.com/daredevils-team)** and code in my spare time.
+I participate in various hackathons (e.g. Junction) with my team 🏆 **[@daredevils](https://github.com/daredevils-team)** and code open-source projects in my spare time.
 
-For any questions, I'd recommend to contact me via ✉ **<a href="mailto:me@rusetskii.dev">email</a>**.
+Feel free to contact me via ✉ **<a href="mailto:me@rusetskii.dev">email</a>**.
+
+Also, check my **[curriculum vitae](https://github.com/xtenzQ/latex-simple-cv/blob/main/cv.pdf)**!
 
 <p align="left"><a href="https://linkedin.com/in/xtenzq" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://fb.com/nrusetski" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
