@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Nikita</h2>
 
-I develop web applications in ☕ **Java** and **Kotlin**, 🌐 design websites, and research machine learning methods that help to manage 🍃 renewable energy. Currently, I work as a Back-End Developer at **[@kmslighthouse](https://www.kmslh.com/)** and study 🎓 Computer Science.
+I develop web applications in ☕ **Java** and **Kotlin**, 🌐 design websites, and research machine 💬 NLP and time-series prediction using machine learning. Currently, I work as a Back-End Developer at **[@kmslighthouse](https://www.kmslh.com/)** and study 🎓 Computer Science.
 
 I participate in various hackathons (e.g. Junction) with my team 🏆 **[@daredevils](https://github.com/daredevils-team)** and code open-source projects in my spare time.
 
