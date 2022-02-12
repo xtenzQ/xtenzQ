@@ -6,7 +6,7 @@ I participate in various hackathons (e.g. Junction) with my team 🏆 **[@darede
 
 Feel free to contact me via ✉ **<a href="mailto:me@rusetskii.dev">email</a>**.
 
-Also, check my **[curriculum vitae](https://github.com/xtenzQ/latex-simple-cv/blob/main/cv.pdf)**!
+Also, check my **[curriculum vitae](https://rusetskii.dev/latex-to-pdf-gh-pages/cv.pdf)**!
 
 <p align="left"><a href="https://linkedin.com/in/xtenzq" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://fb.com/nrusetski" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
