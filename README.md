@@ -1,8 +1,8 @@
 <h2>Hi 👋, I'm Nikita</h2>
 
-I develop web applications in ☕ **Java** and **Kotlin**, 🌐 design websites, and research machine 💬 NLP and time-series prediction using machine learning. Currently, I work as a Back-End Developer at **[@kmslighthouse](https://www.kmslh.com/)** and study 🎓 Computer Science.
+I develop web applications in ☕ **Java** and **Kotlin**, 🌐 design websites, and research 💬 NLP and time-series prediction. Currently, I work as a backend developer **[@kmslighthouse](https://www.kmslh.com/)** and study 🎓 Computer Science.
 
-I participate in various hackathons (e.g. Junction) with my team 🏆 **[@daredevils](https://github.com/daredevils-team)** and code open-source projects in my spare time.
+I participate in various hackathons (like JunctionX Seoul) with my team 🏆 **[@daredevils](https://github.com/daredevils-team)** and code open-source projects in my spare time.
 
 Feel free to contact me via ✉ **<a href="mailto:me@rusetskii.dev">email</a>**.
 
