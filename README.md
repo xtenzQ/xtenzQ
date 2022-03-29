@@ -3,7 +3,7 @@
 <a href="https://github.com/xtenzQ/"><img src="https://img.shields.io/badge/GitHub-xtenzQ-40AEF0?logo=github&style=flat-square"/></a>
 <a href="https://www.linkedin.com/in/xtenzq/"><img src="https://img.shields.io/badge/LinkedIn-Nikita R-00D1B2?logo=linkedin&style=flat-square"/></a>
 <a href="https://xtenzq.github.io/blog"><img src="https://img.shields.io/badge/blog-dev-FF8800?style=flat-square"/></a>
-<img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" />
+<img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=F02E65&style=flat-square" alt="xtenzq" />
 
 I like 👨‍💻 coding, 🧠 AI and **[jjimdak](https://3.bp.blogspot.com/-C8MpycXKT6g/WMJCIIoSApI/AAAAAAAAC0M/jYs_urGfOnsZ-sL-F1Y8gROEDRH8KFIFACEw/s1600/Seoul_%25EB%2582%25B4%25EA%25B0%2580%25EC%25B0%259C%25ED%2595%259C%25EB%258B%25AD_2.JPG)** 🤟
 
