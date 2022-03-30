@@ -13,7 +13,7 @@ I participate in various hackathons (like JunctionX Seoul) with my team 🏆 **[
 
 Feel free to contact me via ✉ **<a href="mailto:me@rusetskii.dev">email</a>**.
 
-<p align="left"><img align="left" src="icons/heart.svg" alt="xtenzq" width="22px" /><a href="https://linkedin.com/in/xtenzq" target="blank"></p>
+<p align="left"><img align="left" src="icons/heart.svg" alt="xtenzq" width="22px" /></p>
 
 ---
 _Why is the repo starred? Once there was a fancy profile README.md mentioned **[here](https://github.com/abhisheknaiidu/awesome-github-profile-readme)**. If you wanna check it, go to the **[`backup`](https://github.com/xtenzQ/xtenzQ/tree/backup)** branch of my profile repo._
