@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Nikita</h2>
 
 <a target="_blank" href="https://github.com/xtenzQ/"><img src="https://img.shields.io/badge/GitHub-xtenzQ-40AEF0?logo=github&style=flat-square"/></a>
-<a htarget="_blank" ref="https://www.linkedin.com/in/xtenzq/"><img src="https://img.shields.io/badge/LinkedIn-Nikita R-00D1B2?logo=linkedin&style=flat-square"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/xtenzq/"><img src="https://img.shields.io/badge/LinkedIn-Nikita R-00D1B2?logo=linkedin&style=flat-square"/></a>
 <a target="_blank" href="https://xtenzq.github.io/blog"><img src="https://img.shields.io/badge/blog-Nikita R-FF8800?style=flat-square"/></a>
 <a target="_blank" href="https://xtenzq.github.io/cv"><img src="https://img.shields.io/badge/CV-Nikita R-FFCC22?style=flat-square"/></a>
 <img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=F02E65&style=flat-square" alt="xtenzq" />
