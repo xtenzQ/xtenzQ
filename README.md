@@ -7,13 +7,27 @@
 <img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=F02E65&style=flat-square" alt="xtenzq" />
 <img src="https://img.shields.io/badge/--0057B8?style=flat-square"/> <img src="https://img.shields.io/badge/--FFD700?style=flat-square"/>
 
-I develop web applications in ☕ **Java** and **Kotlin**, 🌐 design websites, and research 💬 NLP and time-series prediction. Currently, I work as a backend developer ♥ **[@kmslighthouse](https://www.kmslh.com/)** and study 🎓 Computer Science.
+```Kotlin
+data class Developer(val name: String, val experience: List<String>, val contest: List<String>, val stack: List<String>)
 
-I participate in various hackathons (like JunctionX Seoul) with my team 🏆 **[@daredevils](https://github.com/daredevils-team)** and code open-source projects in my spare time.
+val name = "Nikita Rusetskii"
+val experience = listOf(
+    "Backend Developer at KMS Lighthouse (2022.01 ~)",
+    "~",
+    "Backend Developer Intern at ISPsystem (2020.02-04)"
+)
+val contests = listOf(
+    "JunctionX Seoul 2021 Finalist",
+    "IEEE Seoul Section Student Paper Bronze Award",
+    "JunctionX Seoul 2020 Finalist",
+)
+val stack = listOf("Java", "Kotlin", "Spring", "Hibernate", "Solr")
 
-Feel free to contact me via ✉ **<a href="mailto:me@rusetskii.dev">email</a>**.
-
-<p align="left"><img align="left" src="icons/heart.svg" alt="xtenzq" width="22px" /></p>
+fun main() {
+    val me = Developer(name, experience, contests, stack)
+    print(me.toString())
+}
+```
 
 ---
 _Why is the repo starred? Once there was a fancy profile README.md mentioned **[here](https://github.com/abhisheknaiidu/awesome-github-profile-readme)**. If you wanna check it, go to the **[`backup`](https://github.com/xtenzQ/xtenzQ/tree/backup)** branch of my profile repo._
