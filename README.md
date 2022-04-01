@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/--0057B8?style=flat-square"/> <img src="https://img.shields.io/badge/--FFD700?style=flat-square"/>
 
 ```Kotlin
-data class Developer(val name: String, val experience: List<String>, val contest: List<String>, val stack: List<String>)
+data class Developer(val name: String, val experience: List<String>, val contest: List<String>, 
+                     val stack: List<String>)
 
 val name = "Nikita Rusetskii"
 val experience = listOf(
