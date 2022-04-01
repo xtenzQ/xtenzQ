@@ -8,10 +8,11 @@
 <img src="https://img.shields.io/badge/--0057B8?style=flat-square"/> <img src="https://img.shields.io/badge/--FFD700?style=flat-square"/>
 
 ```Kotlin
-data class Developer(val name: String, val experience: List<String>, val contest: List<String>, 
-                     val stack: List<String>)
+data class Developer(val name: String, val experience: List<String>, val edu: String,
+                     val contest: List<String>, val stack: List<String>)
 
 val name = "Nikita Rusetskii"
+val edu = "Master's degree in Computer Engineering"
 val experience = listOf(
     "Backend Developer at KMS Lighthouse (2022.01 ~)", "~",
     "Backend Developer Intern at ISPsystem (2020.02 ~ 04)"
@@ -19,12 +20,14 @@ val experience = listOf(
 val contests = listOf(
     "JunctionX Seoul 2021 Finalist",
     "IEEE Seoul Section Student Paper Bronze Award",
-    "JunctionX Seoul 2020 Finalist",
+    "JunctionX Seoul 2020 Finalist"
 )
-val stack = listOf("Java", "Kotlin", "Spring", "Hibernate", "Solr")
+val stack = listOf(
+  "Java", "Kotlin", "Spring", "Hibernate", "Solr", "MySQL", "Docker"
+)
 
 fun main() {
-    val me = Developer(name, experience, contests, stack)
+    val me = Developer(name, experience, edu, contests, stack)
     print(me.toString())
 }
 ```
