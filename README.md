@@ -12,9 +12,8 @@ data class Developer(val name: String, val experience: List<String>, val contest
 
 val name = "Nikita Rusetskii"
 val experience = listOf(
-    "Backend Developer at KMS Lighthouse (2022.01 ~)",
-    "~",
-    "Backend Developer Intern at ISPsystem (2020.02-04)"
+    "Backend Developer at KMS Lighthouse (2022.01 ~)", "~",
+    "Backend Developer Intern at ISPsystem (2020.02 ~ 04)"
 )
 val contests = listOf(
     "JunctionX Seoul 2021 Finalist",
