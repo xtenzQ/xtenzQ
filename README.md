@@ -5,6 +5,7 @@
 <a target="_blank" href="https://xtenzq.github.io/blog"><img src="https://img.shields.io/badge/Blog-Nikita R-FF8800?logo=Jekyll&style=flat-square"/></a>
 <a target="_blank" href="https://xtenzq.github.io/cv"><img src="https://img.shields.io/badge/Résumé-PDF-DD0031?logo=LibreOffice&style=flat-square"/></a>
 <img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=F02E65&style=flat-square" alt="xtenzq" />
+<img src="https://img.shields.io/badge/--0057B8?style=flat-square"/> <img src="https://img.shields.io/badge/--FFD700?style=flat-square"/>
 
 ```Kotlin
 data class Developer(val name: String, val experience: List<String>, val edu: String,
