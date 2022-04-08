@@ -22,7 +22,7 @@ val contests = listOf(
     "JunctionX Seoul 2020 Finalist"
 )
 val stack = listOf(
-  "Java", "Kotlin", "Spring", "Hibernate", "Solr", "MySQL", "Docker"
+  "Java", "Groovy", "Spring", "Apache Solr", "MySQL", "Docker", "Python"
 )
 
 fun main() {
