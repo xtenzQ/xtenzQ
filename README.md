@@ -6,30 +6,11 @@
 <a target="_blank" href="https://xtenzq.github.io/cv"><img src="https://img.shields.io/badge/Résumé-PDF-DD0031?logo=LibreOffice&style=flat-square"/></a>
 <img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=F02E65&style=flat-square" alt="xtenzq" /> <img src="https://img.shields.io/badge/%20-%E2%98%AE%EF%B8%8F-FFD700?logo=Undertale&labelColor=0057B8&style=flat-square" />
 
-```Kotlin
-data class Developer(val name: String, val experience: List<String>, val edu: String,
-                     val contest: List<String>, val stack: List<String>)
+I develop web applications in ☕ **Java** and **Kotlin**, 🌐 design websites, and research 💬 NLP and time-series prediction. Currently, I work as a backend developer ♥ **[@kmslighthouse](https://www.kmslh.com/)** and study 🎓 Computer Science.
 
-val name = "Nikita Rusetskii"
-val edu = "Master's degree in Computer Engineering"
-val experience = listOf(
-    "Backend Developer at KMS Lighthouse (2022.01 ~)", "~",
-    "Backend Developer Intern at ISPsystem (2020.02 ~ 04)"
-)
-val contests = listOf(
-    "JunctionX Seoul 2021 Finalist",
-    "IEEE Seoul Section Student Paper Bronze Award",
-    "JunctionX Seoul 2020 Finalist"
-)
-val stack = listOf(
-  "Java", "Groovy", "Spring", "Apache Solr", "MySQL", "Docker", "Python"
-)
+I participate in various hackathons (like JunctionX Seoul) with my team 🏆 **[@daredevils](https://github.com/daredevils-team)** and code open-source projects in my spare time.
 
-fun main() {
-    val me = Developer(name, experience, edu, contests, stack)
-    print(me.toString())
-}
-```
-<p align="right"><b><a href="https://pl.kotl.in/rgfFrqFEw">Run this code!</a></b></p>
+Feel free to contact me via ✉ **<a href="mailto:me@rusetskii.dev">email</a>**.
 
+---
 _Why is the repo starred? Once there was a fancy profile README.md mentioned **[here](https://github.com/abhisheknaiidu/awesome-github-profile-readme)**. If you wanna check it, go to the **[`backup`](https://github.com/xtenzQ/xtenzQ/tree/backup)** branch of my profile repo._
