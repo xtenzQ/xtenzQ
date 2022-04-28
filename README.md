@@ -1,4 +1,6 @@
-### Hey, I’m Nikita 👋
+### 👋
+
+Hey, I’m **Nikita**.
 
 I’m a backend developer and machine learning researcher currently working at ♥ **[@kmslighthouse](https://www.kmslh.com/)** building search module. In my spare time, I participate in various hackathons (like JunctionX Seoul) with my team 🏆 **[@daredevils](https://github.com/daredevils-team)** and code open-source projects.
 
