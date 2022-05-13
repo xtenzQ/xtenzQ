@@ -8,6 +8,6 @@ I’m a ⌨️ backend developer and 🤖 machine learning researcher currently 
 [My LinkedIn →](https://www.linkedin.com/in/xtenzq/)<br/>
 [My CV →](https://xtenzq.github.io/cv)
 
-<img src="icons/rect.png" height="30px" />
+<img src="icons/rect2.png" />
 
 <sub>_Why is the repo starred? Once there was a fancy profile README.md mentioned **[here](https://github.com/abhisheknaiidu/awesome-github-profile-readme)**. If you wanna check it, go to the **[`backup`](https://github.com/xtenzQ/xtenzQ/tree/backup)** branch of my profile repo._</sub>
