@@ -2,9 +2,9 @@
 
 Hey, I’m **Nikita**.
 
-I’m a ⌨️ backend developer and 🤖 machine learning researcher currently working at ♥ **[@kmslighthouse](https://www.kmslh.com/)** building 🔎 search module. In my spare time, I participate in various hackathons (like JunctionX Seoul) with my team 🏆 **[@daredevils](https://github.com/daredevils-team)** and code open-source projects.
+I’m a ⌨️ backend developer and 🤖 machine learning researcher currently working at ♥ **[@kmslighthouse](https://www.kmslh.com/)** building 🔎 search module. In my spare time, I participate in various hackathons like 🇰🇷 **[@junctionxseoul](https://www.facebook.com/junctionxseoul)** with my team 🏆 **[@daredevils](https://github.com/daredevils-team)** and code open-source projects.
 
-[`linkedin`](https://www.linkedin.com/in/xtenzq/) [`website`](https://xtenzq.github.io/) [`blog`](https://xtenzq.github.io/blog) [`cv`](https://xtenzq.github.io/cv)
+[`scholar`](https://scholar.google.com/citations?user=qy3ZD4IAAAAJ&hl=en) [`linkedin`](https://www.linkedin.com/in/xtenzq/) [`website`](https://xtenzq.github.io/) [`blog`](https://xtenzq.github.io/blog) [`cv`](https://xtenzq.github.io/cv)
 
 <!-- imagine all the people livin' life in peace -->
 <a href="https://www.youtube.com/watch?v=YkgkThdzX-8" target="_blank"><img src="icons/rect.png" /></a>
