@@ -10,6 +10,6 @@ I’m a ⌨️ backend developer and 🤖 machine learning researcher currently 
 
 <!-- imagine all the people livin' life in peace -->
 <!-- I pray for the people of Ukraine  -->
-<a href="https://www.youtube.com/watch?v=YkgkThdzX-8" target="_blank"><img src="icons/rect.png" /></a>
+<a href="https://www.youtube.com/watch?v=YkgkThdzX-8" target="_blank"><img src="rect.png" /></a>
 
 <sub>_Why is the repo starred? Once there was a fancy profile README.md mentioned **[here](https://github.com/abhisheknaiidu/awesome-github-profile-readme)**. If you wanna check it, go to the **[`backup`](https://github.com/xtenzQ/xtenzQ/tree/backup)** branch of my profile repo._</sub>
