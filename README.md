@@ -8,7 +8,7 @@ I’m a ⌨️ backend developer and 🤖 machine learning researcher currently 
 
 @: [`scholar`](https://scholar.google.com/citations?user=qy3ZD4IAAAAJ&hl=en) [`linkedin`](https://www.linkedin.com/in/xtenzq/) [`website`](https://xtenzq.github.io/) [`blog`](https://xtenzq.github.io/blog) [`cv`](https://xtenzq.github.io/cv)
 
-**recent 🏆️**: 🇰🇷 **@junctionx-seoul** ['21](https://xtenzq.github.io/img/junction2021.jpg) ['20](https://xtenzq.github.io/img/junction2020.jpg) finalist • **@ieee-ssspc** ['20](https://xtenzq.github.io/img/IEEE_diploma.png) bronze
+**recent 🏆️**: 🇰🇷 **@kiee-conf** award ['21](https://xtenzq.github.io/img/2021_KIEE_Award.png) • **@junctionx-seoul** ['21](https://xtenzq.github.io/img/junction2021.jpg) ['20](https://xtenzq.github.io/img/junction2020.jpg) finalist • **@ieee-ssspc** ['20](https://xtenzq.github.io/img/IEEE_diploma.png) bronze
 
 <!-- imagine all the people livin' life in peace -->
 <!-- I pray for the people of Ukraine  -->
