@@ -2,7 +2,7 @@
 
 Hey, I’m **Nikita**.
 
-I’m a backend developer currently working at ♥ 🇮🇱 **[KMS Lighthouse](https://www.kmslh.com/)** working on a search engine. In my spare time, I participate in various hackathons like 🇰🇷 **JunctionX Seoul** with my team 🏆 **[@daredevils](https://github.com/daredevils-team)** and code open-source.
+I’m a backend developer currently working at ♥ 🇮🇱 **[KMS Lighthouse](https://www.kmslh.com/)** working on a search engine. In my spare time, I participate in various hackathons like 🇰🇷 **JunctionX Seoul** with my team 🏆 **[@daredevils](https://github.com/daredevils-team)** and code some open-source projects. I also research machine learning methods and its application to renewable energy.
 
 **@:** [`website`](http://xtenzq.github.io/) [`blog`](http://xtenzq.github.io/blog) [`linkedin`](https://www.linkedin.com/in/xtenzq/) [`twitter`](https://twitter.com/xtenzQ)
 
