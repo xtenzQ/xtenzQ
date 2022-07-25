@@ -6,6 +6,8 @@ I’m a backend developer currently working at [KMS Lighthouse](https://www.kmsl
 
 All the things I'm currently working on are available on my **[current tasks](https://github.com/users/xtenzQ/projects/3)** board. Feel free to contribute to my [repositories](https://github.com/xtenzQ?tab=repositories) no matter how small the change is - even typo fixes are welcome! 
 
-**@:** [`website`](http://xtenzq.github.io/) [`blog`](http://xtenzq.github.io/blog) [`linkedin`](https://www.linkedin.com/in/xtenzq/) [`twitter`](https://twitter.com/xtenzQ)
+<a target="_blank" href="https://www.linkedin.com/in/xtenzq/"><img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&style=flat-square"/></a>
+<a target="_blank" href="https://xtenzq.github.io/blog"><img src="https://img.shields.io/badge/blog-CC0000?logo=Jekyll&style=flat-square"/></a>
+<a target="_blank" href="https://twitter.com/xtenzQ"><img src="https://img.shields.io/badge/twitter-1DA1F2?logo=Twitter&style=flat-square&logoColor=white"/></a>
 
 <sub>_Why is the repo starred? Once there was a fancy profile README.md mentioned **[here](https://github.com/abhisheknaiidu/awesome-github-profile-readme)**. If you wanna check it, go to the **[`backup`](https://github.com/xtenzQ/xtenzQ/tree/backup)** branch of my profile repo._</sub>
