@@ -6,18 +6,4 @@ All the things I'm currently working on are available on my **[current tasks](ht
 
 I'm also open to job opportunities, feel free to check my **[CV](https://xtenzq.github.io/cv)**.
 
-#### Social links
-
-[![Website](https://img.shields.io/badge/Website-4FC08D?style=for-the-badge&logo=githubpages&logoColor=white)](https://xtenzq.github.io/)
-[![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://xtenzq.github.io/blog)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xtenzQ)
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xtenzq/)
-
-#### Repository stats
-
-<div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=xtenzq&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtenzq&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
-</div>
-
 <sub>_Why is the repo starred? Once there was a fancy profile README.md mentioned **[here](https://github.com/abhisheknaiidu/awesome-github-profile-readme)**. If you wanna check it, go to the **[`backup`](https://github.com/xtenzQ/xtenzQ/tree/backup)** branch of my profile repo._</sub>
