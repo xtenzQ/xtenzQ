@@ -6,4 +6,6 @@ All the things I'm currently working on are available on my **[current tasks](ht
 
 I'm also open to job opportunities, feel free to check my **[CV](https://xtenzq.github.io/cv)**.
 
+[![My Playlist](https://img.shields.io/badge/My%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7j4pdc5O6yJbcWC1SkYJA0?si=94ae1d67ae5d4f29)
+
 <sub>_Why is the repo starred? Once there was a fancy profile README.md mentioned **[here](https://github.com/abhisheknaiidu/awesome-github-profile-readme)**. If you wanna check it, go to the **[`backup`](https://github.com/xtenzQ/xtenzQ/tree/backup)** branch of my profile repo._</sub>
