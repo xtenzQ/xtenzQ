@@ -1,8 +1,8 @@
 ## 👋 Hey, I’m **Nikita**
 
-I am a backend developer at [KMS Lighthouse](https://www.kmslh.com/), where I build the search functionality and everything related to it. In my spare time, I participate in various hackathons, such as 🇰🇷 **JunctionX Seoul** with my team, the 🏆 **[@daredevils](https://github.com/daredevils-team)**. I also enjoy learning new technologies and working on open-source projects.
+I am a backend developer at [KMS Lighthouse](https://www.kmslh.com/), where I build the 🔍 search functionality and everything related to it. In my spare time, I participate in various hackathons, such as 🇰🇷 **JunctionX Seoul** with my team, the 🏆 **[@daredevils](https://github.com/daredevils-team)**. I also enjoy learning new technologies and working on open-source projects.
 
-You can find all the projects I am currently working on listed on my **[task board](https://nikitar.notion.site/2959b7abc88d431bbbf927cd68e353cc?v=72d442cb99394c7b8b7c770d48c55509)**. Please feel free to contribute to my [repositories](https://github.com/xtenzQ?tab=repositories), no matter how small the change. Even fixing typos is appreciated!
+You can find all the projects I am currently working on listed on my **[task board](https://nikitar.notion.site/2959b7abc88d431bbbf927cd68e353cc?v=72d442cb99394c7b8b7c770d48c55509)** 📋. Please feel free to contribute to my [repositories](https://github.com/xtenzQ?tab=repositories), no matter how small the change. 🚀✨ Even fixing typos is appreciated!
 
 [![My Playlist](https://img.shields.io/badge/My%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7j4pdc5O6yJbcWC1SkYJA0?si=94ae1d67ae5d4f29)
 
