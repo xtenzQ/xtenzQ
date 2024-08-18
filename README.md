@@ -6,4 +6,4 @@ Finalist in the 🚀**JunctionX Seoul** Hackathons, [2020](https://xtenzq.github
 
 MSc in Computer Science. [Inha Univ.](https://eng.inha.ac.kr/eng/index.do) exchange student. Ph. D. dropout.
 
-🎧 **[spotify playlist](https://open.spotify.com/playlist/7j4pdc5O6yJbcWC1SkYJA0?si=94ae1d67ae5d4f2)** // 🎓 **[google scholar](https://scholar.google.com/citations?user=qy3ZD4IAAAAJ&hl=en)** // 🥋 **[linkedin](https://www.linkedin.com/in/xtenzq/)** // 🔭 **[LeetCode](https://leetcode.com/u/xtenzQ/)**
+[`google scholar`](https://scholar.google.com/citations?user=qy3ZD4IAAAAJ&hl=en) • [`linkedin`](https://www.linkedin.com/in/xtenzq/) • [`leetcode`](https://leetcode.com/u/xtenzQ/)
