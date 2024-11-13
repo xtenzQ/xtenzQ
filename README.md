@@ -1,8 +1,8 @@
-👋 Hey there, I'm **Nikita**,
+### 👋 Hey there, I'm **Nikita**,
 
 Software Engineer based in Belgrade.
 
-Bronze medalist in the 🚀**JunctionX Seoul** Hackathons, [2020](https://xtenzq.github.io/img/junction2020.0a15fc6a.jpg) and [2021](https://xtenzq.github.io/img/junction2021.e5b28d8d.jpg). 
+Finalists in various hackathons and paper contests (**JunctionX Seoul** 2020, 2021, **IEEE Seoul**, **KIEE conference**, etc.).
 
 MSc in Computer Science. [Inha Univ.](https://eng.inha.ac.kr/eng/index.do) exchange student. Ph. D. dropout.
 
