@@ -1,6 +1,6 @@
 ### 👋 Hey there, I'm **Nikita**,
 
-L3 Software Engineer based in 🇷🇸 **Belgrade**. 
+Based in 🇷🇸 **Belgrade**. 
 
 Finalists in various korean hackathons and student paper contests. 
 
