@@ -1,6 +1,7 @@
 ### 👋 Hey there, I'm **Nikita**
 
-Software engineer at [@kmslighthouse](https://kmslh.com/), based in 🇷🇸 **Belgrade**.
+Software engineer at [KMS Lighthouse](https://kmslh.com/), based in 🇷🇸 **Belgrade**.
+
 I work on Solr-based search and build AI tooling for our R&D team.
 
 Interested in search architecture, Lucene internals, RAG, and agent harnesses for software engineering.
