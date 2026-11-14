@@ -15,7 +15,8 @@ README.md is the github.com/xtenzQ profile. Whatever lands on master is live.
   (width, height, align) and entities such as &emsp;.
 - Images are static SVGs in assets/, with paths relative to the repo root.
   An SVG shown as <img> can't load web fonts, so its text uses system fonts.
-- Theme: either one colour that reads on both backgrounds (icons use #848d97),
+- Theme: either one colour that reads on both backgrounds (icons use #737b85,
+  about 4.3:1 on both light and dark),
   or <picture> with a prefers-color-scheme: dark <source>. GitHub's <themed-picture>
   then follows the GitHub theme at page load.
 - Icons and text on one line don't align with GitHub's CSS; keep icon rows icon-only.
