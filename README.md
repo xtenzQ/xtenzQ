@@ -1,6 +1,6 @@
 <a href="mailto:dev4nick@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/open-to-roles-dark.svg"><img src="assets/open-to-roles-light.svg" alt="Open to new roles" height="26" align="top"></picture></a>
 
-I work on Solr-based search at [KMS&nbsp;Lighthouse](https://kmslh.com/) and build AI tooling for its R&D team, with occasional [open source fixes](https://nikitar.dev/oss/?utm_source=github) on&nbsp;the&nbsp;side.
+I work on Solr-based search at [@kmslh](https://kmslh.com/) and build AI tooling for its R&D team, with occasional [open source fixes](https://nikitar.dev/oss/?utm_source=github) on&nbsp;the&nbsp;side.
 
 Looking for search and backend engineering or AI developer tooling work, remote or in Belgrade.
 
